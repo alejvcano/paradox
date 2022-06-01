@@ -71,7 +71,6 @@ def mutation_selection_parameters():
         sel_list.append(next_label_s)
     labels_m = tuple(mut_list)
     labels_s = tuple(sel_list)
-    print(labels_m, labels_s)
 
     return mutation, mutation_interval, m_ticks, selection, selection_interval, s_ticks, selection_coefficient_array, \
            ms, low_limit_mut, high_limit_mut, low_limit_sel, high_limit_sel, m_lim, s_lim, \

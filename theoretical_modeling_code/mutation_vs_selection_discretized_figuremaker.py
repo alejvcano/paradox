@@ -45,7 +45,9 @@ def mutation_selection_parameters():
     m_lim = np.array([low_limit_mut, high_limit_mut])
     s_lim = np.array([low_limit_sel, high_limit_sel])
 
-    # Specify the number of mutation-selection pairs of values populated in the nominal distribution:
+    # Define the nominal distribution by specifying the number of mutation-rate/selection-coefficient 
+    # joint values populated by a mutation class, and the proportion of mutations in that class relative 
+    # to total mutations:
     high = np.array([1, 0, 1])
     med = np.array([1, 1, 0])
     low = np.array([0, 1, 1])

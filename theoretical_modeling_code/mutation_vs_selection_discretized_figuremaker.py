@@ -55,7 +55,8 @@ def mutation_selection_parameters():
     how_many_mutation_classes = sum(sum(nominal_binary))
     N = np.divide(1, how_many_mutation_classes)
     nominal_proportions = np.multiply(N, nominal_binary)
-
+    
+    # Compute axis tick-labels using the range and intervals of mutation and selection defined above:
     mut_list = []
     sel_list = []
     v = 1

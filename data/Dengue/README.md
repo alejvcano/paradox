@@ -2,3 +2,5 @@ Nominal_dengue.txt contains the data to create the nominal distribution displaye
 information about each beneficial mutation, such as genomic position, mutation type, etc. To construct the nominal
 distribution we use the selection coefficients given by the column "relativeFitness" and the mutation rates given 
 by the column "muRate."
+
+To simulate a fixed distribution of mutations, use the SLiM code provided in code/SLiM.

@@ -4,4 +4,4 @@ Nominal_p53.txt provides the selection coefficients and mutation rates to constr
 
 Multi_p53.txt provides the mutation type, selection coefficients and observed counts to construct the nominal and fixed distributions for the amino acid changes associated to multi and single point mutations in Figure 5. *
 
-* Original dara from Giacomelli, A.O., Yang, X., Lintner, R.E. et al. Mutational processes shape the landscape of TP53 mutations in human cancer. Nat Genet 50, 1381–1387 (2018). 
+* Original data from Giacomelli, A.O., Yang, X., Lintner, R.E. et al. Mutational processes shape the landscape of TP53 mutations in human cancer. Nat Genet 50, 1381–1387 (2018). 

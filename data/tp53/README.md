@@ -2,6 +2,6 @@ We assigned mutation rates to all possible non-synonymous variants using data fr
 
 Nominal_p53.txt provides the selection coefficients and mutation rates to construct the nominal distribution of Fig 4. *
 
-Multi_p53.txt provides the mutation type, selection coefficients and observed counts to construct the nominal and fixed distributions for the amino acid changes associated to multi and single point mutations in Figure 5. *
+Multi_p53.txt provides the mutation type, selection coefficients and observed counts to construct the nominal and fixed distributions for the amino acid changes associated to multi and single point mutations in Fig 5. *
 
 * Original data from Giacomelli, A.O., Yang, X., Lintner, R.E. et al. Mutational processes shape the landscape of TP53 mutations in human cancer. Nat Genet 50, 1381–1387 (2018). 

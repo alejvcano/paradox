@@ -6,7 +6,7 @@ Gitschlag, B., A.V. Cano, J.L. Payne, D.M. McCandlish and A. Stoltzfus (in prep)
 
 ## Contact 
 
-Arlin Stoltzfus (arlin@umd.edu)
+Arlin Stoltzfus (arlin@nist.gov)
 
 Alejandro V. Cano (alejandro.viloria@env.ethz.ch)
 

@@ -1,5 +1,7 @@
 # Data used in Gitschlag, et al., "Mutation and selection induce correlations between selection coefficients and mutation rates." 
 
+[![DOI](https://zenodo.org/badge/495452813.svg)](https://zenodo.org/badge/latestdoi/495452813)
+
 This repository provides data and code used in Gitschlag, et al.  
 
 Gitschlag, B., A.V. Cano, J.L. Payne, D.M. McCandlish and A. Stoltzfus (in prep). Mutation and selection induce correlations between selection coefficients and mutation rates

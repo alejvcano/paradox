@@ -1,8 +1,8 @@
-# Data used in Gitschlag, et al., "On associations of mutation and fitness..." 
+# Data used in Gitschlag, et al., "Mutation and selection induce correlations between selection coefficients and mutation rates." 
 
 This repository provides data and code used in Gitschlag, et al.  
 
-Gitschlag, B., A.V. Cano, J.L. Payne, D.M. McCandlish and A. Stoltzfus (in prep). On associations of mutation and fitness among evolutionary changes
+Gitschlag, B., A.V. Cano, J.L. Payne, D.M. McCandlish and A. Stoltzfus (in prep). Mutation and selection induce correlations between selection coefficients and mutation rates
 
 ## Contact 
 
